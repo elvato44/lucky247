@@ -1,3 +1,9 @@
+html {
+
+  background: #000000;
+}
+
+
 @font-face {
   font-family: 'Jugabet';
   src: url('img/Jugabet-BlackItalic.4f99304c.woff2') format('woff2');
