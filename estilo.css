@@ -24,12 +24,12 @@ body {
 
 .logo-wrapper {
   text-align: center;
-  margin-top: -10px;   /* Más espacio arriba */
-  margin-bottom: -40px; /* Más espacio abajo */
+  margin-top: -1px;   /* Más espacio arriba */
+  margin-bottom: -25px; /* Más espacio abajo */
 }
 
 .logo {
-  width: 260px;       /* Tamaño más chico */
+  width: 200px;       /* Tamaño más chico */
   max-width: 85vw;    /* Se adapta en pantallas pequeñas */
 }
 
